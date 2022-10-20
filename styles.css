@@ -42,7 +42,7 @@ h1 {
 button {
  border: none;
  border-radius: 2em;
- width: 100%;
+ width: 105%;
  padding: 1.2em;
  background-color: var(--dark-cyan);
  color: var(--white);
@@ -81,7 +81,7 @@ button {
 
 .label {
  font-variant-caps: all-small-caps;
- font-size: 1.7em;
+ font-size: 1.5em;
  font-weight: 400;
  letter-spacing: 0.2em;
 }
@@ -102,7 +102,7 @@ button {
 }
 
 .cart-icon {
- margin-right: 1em;
+ margin-left: 1em;
 }
 
 button:hover {
@@ -137,11 +137,12 @@ button:hover {
  
  
  #image-desktop{
-     border-radius: 1em 1em 1em 1em;
-     width: 50%;
-    }
+   border-radius: 1em 1em 1em 1em;
+   width: 50%;
+  }
 
-    .card-text {
+
+ .card-text {
      padding: 5% 7.5%;
      display: flex;
      justify-content: space-evenly;
